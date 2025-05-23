@@ -25,13 +25,16 @@
 1. **Сборка РСВ-шилда**
     - Установили клеммники, штыревые гнезда «мама», штыревые вилки и припаяли их с обратной стороны.
 
-![](img/img_1.png )
+![img_1](https://github.com/user-attachments/assets/42a7a36c-503e-4cf0-837c-ac6d06d8c465)
+
 2. **Подключение питания и моторов**
     - Подключены моторы на ходовую часть, как на рисунке.
-![](img/img_2.png )
+![img_2](https://github.com/user-attachments/assets/0ce870c2-c64c-436c-b3e3-276c7a2ba214)
+
 3. **Механизмы и корпус робота**
     - Были спроектированы в Solidworks и распечатаны на 3D принтерах, основа вырезана на лазерном станке
-![](img/img_3.jpg )
+![img_3](https://github.com/user-attachments/assets/761d811c-6d4f-432a-a89e-d9c22eafd8be)
+
 ## Программирование управляющей платы:
 - Для программирования управляющей платы предварительно установлена среда Arduino Studio.
 - Установлены библиотеки (TB6612, AsyncTCP-master, ESPAsyncWevServer-master, ESP32Servo, Adafruit_NeoPixel), плагины (esp32, Arduion_JSON, AnalogWrite), драйвер USB-UART CP210x_VCP_Windows.
@@ -52,8 +55,8 @@
 - Третий ввриант крепежа оказался более прочным, но колеса несимметричны, поэтому робот не движется ровно по прямой, требуется подправление траектории
 
 
-![](img/img_4.png )
-## Результат:
-![](img/img_5.jpg )
+![img_4](https://github.com/user-attachments/assets/00b94cf8-f513-48bd-9c0e-fc184ca01df9)
+
+## Результат:![img_5](https://github.com/user-attachments/assets/ed5083f8-b5b0-4ec4-a4a7-cee48758474a)
 
 
